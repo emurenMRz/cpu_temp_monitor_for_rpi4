@@ -1,0 +1,7 @@
+{
+	"adaptor": "mysql+mysqlconnector",
+	"user": "YOUR DB USERNAME",
+	"password": "YOUR BD PASSWORD",
+	"host": "localhost",
+	"dbname": "cputemp"
+}
